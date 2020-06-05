@@ -1,0 +1,15 @@
+.editor{
+    /* grid-column-start: 2; */
+    /* grid-column-end: five; */
+    /* grid-row-start: 2; */
+    /* grid-row-end: 3; */
+    height: 100%;
+    padding: 2rem;
+    width: 40vw;
+}
+
+.editor textarea{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}

@@ -1,0 +1,12 @@
+.viewer{
+    /* grid-column-start: 2; */
+    /* grid-column-end: five; */
+    /* grid-row-start: 3; */
+    /* grid-row-end: 4; */
+    display: block;
+    background-color: #eee;
+    width: 40vw;
+
+    height: 100%;
+
+}
